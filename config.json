@@ -43,7 +43,14 @@
       "id": "claude-opus-4-6-fast",
       "type": "anthropic",
       "reasoning": "auto",
-      "fast":true,
+      "fast": true,
+      "provider": "anthropic"
+    },
+    {
+      "name": "Opus 4.7",
+      "id": "claude-opus-4-7",
+      "type": "anthropic",
+      "reasoning": "auto",
       "provider": "anthropic"
     },
     {
@@ -79,7 +86,7 @@
       "id": "gpt-5.4-fast",
       "type": "openai",
       "reasoning": "auto",
-      "fast":true,
+      "fast": true,
       "provider": "openai"
     },
     {
@@ -103,7 +110,7 @@
       "reasoning": "auto",
       "provider": "openai"
     },
-      {
+    {
       "name": "GPT-5.4 mini",
       "id": "gpt-5.4-mini",
       "type": "openai",
